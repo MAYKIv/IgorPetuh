@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Climate+Crisis&family=Rubik+Iso&display=swap');
+body{
+    background-image: url(Egg\ Roll-Out\ Nesting\ Box_\ Egg\ Catcher\,\ Egg\ Trap\,\ Egg\ Eating_.jpeg);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-family: Rubik;
+    text-shadow: 3px 3px 3px #000;
+    
+}
+
+.petuh{
+    font-size: 50px;
+    color: aliceblue;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.petuh2{
+    font-weight: 700;
+    color: aliceblue;
+    text-shadow: 1px 1px 1px #000;
+}
+
+audio {
+    display: none;
+  }
